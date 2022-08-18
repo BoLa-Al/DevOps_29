@@ -1,0 +1,15 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = git@github.com:BoLa-Al/DevOps_29.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[alias]
+	history = log
+[user]
+	name = Aleksandr Istomin
+	email = aleksandr.istomin@indriver.com
